@@ -1,0 +1,2 @@
+LIBRARYALT.IntLib filter=lfs diff=lfs merge=lfs -text
+My[[:space:]]Library.PcbLib filter=lfs diff=lfs merge=lfs -text
