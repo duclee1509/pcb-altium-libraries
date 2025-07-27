@@ -1,0 +1,22 @@
+Importer Log Report
+Project : BluePill.PrjPcb
+
+Section : Analyze Document - E:\Altium Designer\Library\STM32Bluepill_eagle-master\BluePill.lbr
+    Analyzing data of E:\Altium Designer\Library\STM32Bluepill_eagle-master\BluePill.lbr
+    Load settings
+    Load layers 61
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 3
+    Load DeviceSets 1
+EndSection
+
+Section : Import Document - E:\Altium Designer\Library\STM32Bluepill_eagle-master\BluePill.lbr
+    ERROR: Exception raised! Access violation at address 00000001BF4C8732 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 00000001BF4C8732 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 00000001BF4C8732 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 00000001BF4C8732 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 00000001BF4C8732 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 00000001BF4C8732 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+EndSection
